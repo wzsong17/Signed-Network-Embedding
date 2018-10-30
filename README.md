@@ -1,5 +1,22 @@
 # Neural-Network-Signed-Network-Embedding
 
-The pytorch implementation of the paper "Learning node and edge embeddings for signed networks" (accepted by [Neurocomputing](https://www.journals.elsevier.com/neurocomputing/)).
+The pytorch implementation of [Song W, Wang S, Yang B, et al. Learning node and edge embeddings for signed networks[J]. Neurocomputing, 2018, 319: 42-54.](https://doi.org/10.1016/j.neucom.2018.08.072)).
 
-**The source code will be published soon.**
+## Dependencies
+- pytorch > 0.4
+- numpy
+- sklearn
+- scipy
+
+## References
+If you find the code is useful for your research, please cite the following paper in your publication.
+
+@article{song2018learning,
+  title={Learning node and edge embeddings for signed networks},
+  author={Song, Wenzhuo and Wang, Shengsheng and Yang, Bo and Lu, You and Zhao, Xuehua and Liu, Xueyan},
+  journal={Neurocomputing},
+  volume={319},
+  pages={42--54},
+  year={2018},
+  publisher={Elsevier}
+}
