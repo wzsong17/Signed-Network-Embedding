@@ -11,6 +11,7 @@ The pytorch implementation of [Song W, Wang S, Yang B, et al. Learning node and 
 ## References
 If you find the code is useful for your research, please cite the following paper in your publication.
 
+```
 @article{song2018learning,
   title={Learning node and edge embeddings for signed networks},
   author={Song, Wenzhuo and Wang, Shengsheng and Yang, Bo and Lu, You and Zhao, Xuehua and Liu, Xueyan},
@@ -20,3 +21,4 @@ If you find the code is useful for your research, please cite the following pape
   year={2018},
   publisher={Elsevier}
 }
+```
