@@ -1,6 +1,6 @@
-# Neural-Network-Signed-Network-Embedding
+# Signed-Network-Embedding
 
-The pytorch implementation of [Song W, Wang S, Yang B, et al. Learning node and edge embeddings for signed networks[J]. Neurocomputing, 2018, 319: 42-54.](https://doi.org/10.1016/j.neucom.2018.08.072)).
+The pytorch implementation of [Song W, Wang S, Yang B, et al. Learning node and edge embeddings for signed networks[J].](https://doi.org/10.1016/j.neucom.2018.08.072) Neurocomputing, 2018, 319: 42-54.
 
 ## Dependencies
 - pytorch > 0.4
@@ -10,6 +10,10 @@ The pytorch implementation of [Song W, Wang S, Yang B, et al. Learning node and 
 
 ## References
 If you find the code is useful for your research, please cite the following paper in your publication.
+
+[1] Song W, Wang S, Yang B, et al. Learning node and edge embeddings for signed networks[J]. Neurocomputing, 2018, 319: 42-54.
+
+or
 
 ```
 @article{song2018learning,
