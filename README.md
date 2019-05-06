@@ -3,7 +3,7 @@
 The pytorch implementation of [Song W, Wang S, Yang B, et al. Learning node and edge embeddings for signed networks[J].](https://doi.org/10.1016/j.neucom.2018.08.072) Neurocomputing, 2018, 319: 42-54.
 
 ## Dependencies
-- pytorch > 0.4
+- pytorch >= 0.4
 - numpy
 - sklearn
 - scipy
